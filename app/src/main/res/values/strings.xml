@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AsyncDemo</string>
+
+
+    <string-array name="listItems">
+        <item>PHP</item>
+        <item>JAVA</item>
+        <item>PYTHON</item>
+        <item>HTML</item>
+        <item>JAVASCRIPT</item>
+        <item>KOTLIN</item>
+        <item>RUBY</item>
+        <item>SCALA</item>
+        <item>SUDO</item>
+        <item>WINDOW</item>
+        <item>LINUX</item>
+        <item>AJAX</item>
+        <item>ANGULAR</item>
+        <item>LARAVEL</item>
+        <item>FLUTTER</item>
+        <item>REACT NATIVE</item>
+        <item>ANDROID</item>
+        <item>VODAFONE</item>
+        <item>SUNNXT</item>
+        <item>MYPLEX</item>
+        <item>MYSQL</item>
+    </string-array>
+
+
+</resources>
+
+
